@@ -38,7 +38,7 @@ A list of modules you wanna install.
 
 Type: `object`
 
-The options to run `npm install` with, support all `npm install` opionts.
+The options to run `npm install` with, support all `npm install` options.
 
 ## License
 
