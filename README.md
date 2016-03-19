@@ -22,7 +22,6 @@ npmin(['express', 'co'], options)
     console.log(result.co)
     //=> failed: 1
   })
-//=> 'unicorns & rainbows'
 ```
 
 ## API
