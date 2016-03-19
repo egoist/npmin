@@ -19,10 +19,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "npm",
+    "install"
   ],
   "devDependencies": {
-    "ava": "latest"
+    "xo": "latest"
   },
   "xo": {
     "semicolon": false,
