@@ -1,6 +1,6 @@
 {
   "name": "npmin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A minimal implementation of `npm install` for programmatic use.",
   "license": "MIT",
   "repository": "egoist/npmin",
