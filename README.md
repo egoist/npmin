@@ -1,6 +1,6 @@
 # npmin [![NPM version](https://img.shields.io/npm/v/npmin.svg)](https://npmjs.com/package/npmin) [![NPM downloads](https://img.shields.io/npm/dm/npmin.svg)](https://npmjs.com/package/npmin) [![Build Status](https://img.shields.io/circleci/project/egoist/npmin/master.svg)](https://circleci.com/gh/egoist/npmin)
 
-> A minimal implementation of `npm install` for programmatic use.
+> `npmin` skips modules that are already installed.
 
 ## Install
 
